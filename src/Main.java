@@ -6,7 +6,7 @@ class Main {
         Worker worker1 = new Worker(listener,errorListener);
         worker1.start();
         System.out.println();
-
+// не разобрался как удалить папку идеа из гитхаба???
     }
 }
 //
