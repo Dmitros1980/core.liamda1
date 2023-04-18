@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="359d7fd9-8c24-49dd-808a-fa152cbe422b" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/../Core liamba_Rabotiaga/src/Worker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core liamba_Rabotiaga/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Core liamba_Rabotiaga/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core liamba_Rabotiaga/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Core liamba_Rabotiaga/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Core liamba_Rabotiaga/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Core liamba_Rabotiaga/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="359d7fd9-8c24-49dd-808a-fa152cbe422b" name="Changes" comment="Add idea to ignore" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681751202066</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add idea to ignore">
+      <created>1681838876049</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681838876049</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +111,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Add idea to ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add idea to ignore" />
   </component>
 </project>
